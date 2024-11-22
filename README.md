@@ -1,2 +1,2 @@
-# Clutter-Remover
-This is my project on node js
+#This repo will contain my mini projects of mern stack
+
