@@ -1,0 +1,20 @@
+🚀 Automation Magic: Node.js File Organizer Project 📂
+
+Just completed an exciting personal project that solves a common digital clutter problem! I've developed a Node.js script that automatically organizes messy folders by creating directories based on file extensions and moving files into their corresponding folders.
+
+Project Highlights:
+- Automatically detects different file types in a directory
+- Creates folders dynamically for each unique file extension
+- Moves files into their respective extension-named folders
+- Simplifies file management with a single script execution
+
+Tech Stack:
+- Language: Node.js
+- Key Modules: fs (File System), path
+
+Why This Matters:
+In today's digital world, file management can be a nightmare. This script is a simple yet powerful solution to keep your directories clean and organized with minimal effort. Perfect for developers, designers, and anyone struggling with file clutter!
+
+🔧 Open to collaboration and feedback! Would love to hear your thoughts on file management automation.
+
+#NodeJS #FileManagement #Automation #SoftwareDevelopment #TechProject
